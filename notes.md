@@ -10,7 +10,7 @@ In no particular order...
 
 * Angular
 * React
-* (Jekyll)[jekyll.md]
+* [Jekyll](jekyll.md)
 * GitHub Pages
 * SVG
 * HTML Canvas
